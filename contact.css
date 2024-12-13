@@ -1,0 +1,121 @@
+.header {
+  width: 100%;
+  position: relative;
+}
+
+.head-1 {
+  justify-content: space-between;
+}
+
+
+
+
+
+
+.page-4 {
+    padding-top: 6vw;
+    background-image: url(./images/background.svg);
+    margin-bottom: 0px;
+    padding-bottom: 15vh;
+  }
+  .page-4-heading {
+    text-align: center;
+    font-size: 3.5vw;
+    font-weight: 700;
+  }
+  .page-4-text {
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: lighter;
+    margin-top: 2vw;
+    color: #666666;
+    margin-left: 7vw;
+  }
+  /* .form-box{
+    background-color: white;
+    width: 50vw;
+  } */
+
+  /* form started */
+  form {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding: 4vw;
+    border-radius: 0.5vw;
+    margin-top: 6vw;
+    /* margin-bottom: 4vw; */
+    box-shadow: -0.5px -0.5px 10px rgb(168, 168, 168);
+  
+  }
+  label {
+    font-size: 1vw;
+    color: #000000;
+    font-weight: bolder;
+    margin-bottom: 0.8vw;
+    margin-top: 2vw;
+  }
+  .input {
+    height: 4vw;
+    width: 100%;
+    border-radius: 0.5vw;
+    background-color: #eeeeee;
+    border: 0px;
+    padding-left: 1.5vw;
+    font-weight: bolder;
+    color: #0f0e0e;
+    font-size: 1vw;
+    
+  }
+  
+  textarea {
+    height: 15vw;
+    width: 100%;
+    border-radius: 0.5vw;
+    background-color: #eeeeee;
+    border: 0px;
+    padding-left: 1.5vw;
+    font-weight: bolder;
+    color: hsl(0, 0%, 0%);
+    font-size: 1vw;
+    padding-top: 1.2vw;
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 40vw;
+    min-height: 40vw;
+  }
+.btnc{
+  margin-top: 10px;
+  padding: 10px 10px;
+  border: 5px solid red;
+  color: red;
+  font-weight: bold;
+}
+.btnc:hover{
+  color: orangered;
+  margin-top: 10px;
+  padding: 10px 10px;
+  border: 5px solid blue;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+/* Footer */
+
+.footer{
+  background-color: rgb(26, 26, 26);
+  color: #ededed;
+}
+
+.slide-9{
+  margin-left: 20px;
+}
+.slide-10{
+  /* justify-items: right; */
+  margin-left: 150px;
+}
+.slide-11{
+  justify-items: right;
+
+}
